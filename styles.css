@@ -1,3 +1,15 @@
 .containercards {
+    width: 32%;
+}
+
+.form-select form-select-m {
     width: 30%;
+}
+
+.element {
+
+    position:absolute;
+    left:75%;
+    top: 28%;
+
 }
